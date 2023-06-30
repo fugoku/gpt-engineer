@@ -18,7 +18,6 @@ venv/
 ENV/
 
 # IDE-specific files
-.vscode/
 .idea/
 
 # Compiled Python modules
@@ -49,3 +48,7 @@ scratchpad
 # Ignore GPT Engineer files
 projects
 !projects/example
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
